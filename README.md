@@ -1,8 +1,12 @@
 ## Hi！ this is Kevin 👋
 
-## Skills
+## 🔧 Skills
 
-React | TypeScript | | Tailwind CSS | Zustand | JavaScript | HTML
+React | TypeScript | Tailwind CSS | Zustand | JavaScript | HTML
+
+## 💬 Reach Me
+
+- [📧 Mail To Me](mailto:huanwendu@gmail.com)
 
 <!-- 23344 -->
 <!--
