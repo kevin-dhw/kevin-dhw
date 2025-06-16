@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi！ this is Kevin 👋
 
-## hi 3344 44 12
+## Skills
+
+React | TypeScript | | Tailwind CSS | Zustand | JavaScript | HTML
 
 <!-- 23344 -->
 <!--
