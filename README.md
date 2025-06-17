@@ -6,7 +6,7 @@ React | TypeScript | Tailwind CSS | Zustand | JavaScript | HTML
 
 ## 💬 Reach Me
 
-- [📧 Mail To Me](mailto:huanwendu@gmail.com)
+- [📧 GMail](mailto:huanwendu@gmail.com)
 
 <!-- 23344 -->
 <!--
