@@ -7,6 +7,7 @@ React | TypeScript | Tailwind CSS | Zustand | JavaScript | HTML
 ## 💬 Reach Me
 
 - [📧 GMail](mailto:huanwendu@gmail.com)
+- [ blog](https://kevin-blog-beta.vercel.app)
 
 <!-- 23344 111 -->
 <!--
