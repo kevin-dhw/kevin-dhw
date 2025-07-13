@@ -2,7 +2,7 @@
 
 ## 🔧 Skills
 
-React | TypeScript | Tailwind CSS | Zustand | JavaScript | HTML
+React | TypeScript | Tailwind CSS | Zustand | JavaScript | HTML |
 
 ## 💬 Reach Me
 
