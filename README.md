@@ -2,12 +2,13 @@
 
 ## 🔧 Skills
 
-React | TypeScript | Tailwind CSS | Zustand | JavaScript | HTML |
+React | TypeScript | Tailwind CSS | Zustand | JavaScript | HTML
 
 ## 💬 Reach Me
 
-- [📧 GMail](mailto:huanwendu@gmail.com)
+- [ GMail](mailto:huanwendu@gmail.com)
 - [ blog](https://kevin-blog-beta.vercel.app)
+- - [ react components](https://vercel.com/kevin-dus-projects/react-conponent-wm6t)
 
 <!-- 23344 111 -->
 <!--
